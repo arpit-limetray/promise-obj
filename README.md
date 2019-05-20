@@ -7,7 +7,8 @@ It internally uses Promise.all for concurrent resolution of promises.
 npm install --save @arpitgo4/promise-obj
 ```
 
-### How to use ?
+### How to use 
+#### Promise resolution
 ```javascript
 const promise-obj = require('@arpitgo4/promise-obj');
 
